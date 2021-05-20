@@ -1,0 +1,248 @@
+# depslib dependency file v1.0
+1580379314 source:/home/navid/Desktop/Zipper/Zipper/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	"MoveToFront.h"
+	"PackBits.h"
+	"BurrowsWheelerTransform.h"
+	"tarr.h"
+	"Huffman.h"
+
+1580379314 "
+
+1580379314 source:/home/navid/Desktop/Zipper/Zipper/src/BurrowsWheelerTransform.cpp
+	"BurrowsWheelerTransform.h"
+
+1580379314 eelerTransform.h"
+
+1580378254 /home/navid/Desktop/Zipper/Zipper/include/BurrowsWheelerTransform.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<vector>
+	<stack>
+
+1580378470 
+
+1580379221 source:/home/navid/Desktop/Zipper/Zipper/src/Huffman_Requirements.cpp
+	"Huffman_Requirements.h"
+
+1580379221 equirements.h"
+
+1580378470 /home/navid/Desktop/Zipper/Zipper/include/Huffman_Requirements.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+
+1580379314 source:/home/navid/Desktop/Zipper/Zipper/src/Huffman.cpp
+	"Huffman.h"
+
+1580378865 /home/navid/Desktop/Zipper/Zipper/include/Huffman.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+	"./Huffman_Requirements.h"
+
+1580378866 _Requirements.h"
+
+1580379214 source:/home/navid/Desktop/Zipper/Zipper/src/MoveToFront.cpp
+	"MoveToFront.h"
+
+1580379214 nt.h"
+
+1580378952 /home/navid/Desktop/Zipper/Zipper/include/MoveToFront.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1580379209 source:/home/navid/Desktop/Zipper/Zipper/src/PackBits.cpp
+	"PackBits.h"
+
+1580379209 h"
+
+1580379053 /home/navid/Desktop/Zipper/Zipper/include/PackBits.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1580379202 source:/home/navid/Desktop/Zipper/Zipper/src/tarr.cpp
+	"tarr.h"
+
+1580379138 /home/navid/Desktop/Zipper/Zipper/include/tarr.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<vector>
+
+1580383664 source:c:\users\reza\downloads\zipper\zipper\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	"include/MoveToFront.h"
+	"include/PackBits.h"
+	"include/BurrowsWheelerTransform.h"
+	"include/tarr.h"
+	"include/Huffman.h"
+
+1580383664 uffman.h"
+
+1580383893 source:c:\users\reza\downloads\zipper\zipper\src\burrowswheelertransform.cpp
+	"../include/BurrowsWheelerTransform.h"
+
+1580383893 e/BurrowsWheelerTransform.h"
+
+1580383893 source:c:\users\reza\downloads\zipper\zipper\src\huffman.cpp
+	"../include/Huffman.h"
+
+1580383893 e/Huffman.h"
+
+1580383893 source:c:\users\reza\downloads\zipper\zipper\src\huffman_requirements.cpp
+	"../include/Huffman_Requirements.h"
+
+1580383893 e/Huffman_Requirements.h"
+
+1580383893 source:c:\users\reza\downloads\zipper\zipper\src\movetofront.cpp
+	"../include/MoveToFront.h"
+
+1580383893 e/MoveToFront.h"
+
+1580383893 source:c:\users\reza\downloads\zipper\zipper\src\packbits.cpp
+	"../include/PackBits.h"
+
+1580383893 e/PackBits.h"
+
+1580383893 source:c:\users\reza\downloads\zipper\zipper\src\tarr.cpp
+	"../include/tarr.h"
+
+1580383893 e/tarr.h"
+
+1580378952 c:\users\reza\downloads\zipper\zipper\include\movetofront.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1580379054 c:\users\reza\downloads\zipper\zipper\include\packbits.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1580378254 c:\users\reza\downloads\zipper\zipper\include\burrowswheelertransform.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<vector>
+	<stack>
+
+1580379138 c:\users\reza\downloads\zipper\zipper\include\tarr.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<vector>
+
+1580378866 c:\users\reza\downloads\zipper\zipper\include\huffman.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+	"./Huffman_Requirements.h"
+
+1580378470 c:\users\reza\downloads\zipper\zipper\include\huffman_requirements.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+
+1580425308 source:/home/navid/Downloads/Zipper/main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+	"./include/MoveToFront.h"
+	"./include/PackBits.h"
+	"./include/BurrowsWheelerTransform.h"
+	"./include/tarr.h"
+	"./include/Huffman.h"
+
+1580378952 /home/navid/Downloads/Zipper/include/MoveToFront.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1580379054 /home/navid/Downloads/Zipper/include/PackBits.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+
+1580378254 /home/navid/Downloads/Zipper/include/BurrowsWheelerTransform.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<vector>
+	<stack>
+
+1580379138 /home/navid/Downloads/Zipper/include/tarr.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<cstring>
+	<vector>
+
+1580425228 /home/navid/Downloads/Zipper/include/Huffman.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+	"./Huffman_Requirements.h"
+
+1580378470 /home/navid/Downloads/Zipper/include/Huffman_Requirements.h
+	<iostream>
+	<algorithm>
+	<fstream>
+	<queue>
+	<cstring>
+	<vector>
+
+1580419677 source:/home/navid/Downloads/Zipper/src/BurrowsWheelerTransform.cpp
+	"../include/BurrowsWheelerTransform.h"
+
+1580425218 source:/home/navid/Downloads/Zipper/src/Huffman.cpp
+	"../include/Huffman.h"
+
+1580386179 source:/home/navid/Downloads/Zipper/src/Huffman_Requirements.cpp
+	"../include/Huffman_Requirements.h"
+
+1580419743 source:/home/navid/Downloads/Zipper/src/MoveToFront.cpp
+	"../include/MoveToFront.h"
+
+1580419762 source:/home/navid/Downloads/Zipper/src/PackBits.cpp
+	"../include/PackBits.h"
+
+1580421653 source:/home/navid/Downloads/Zipper/src/tarr.cpp
+	"../include/tarr.h"
+
